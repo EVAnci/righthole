@@ -42,6 +42,10 @@ At the middle of the train (not exactly the middle but anyway) is a keyboard ima
 
 About this image, I just have no words. I just found [this](https://www.youtube.com/watch?v=mt5_zxOwkJk) video. What the hell is that????
 
+### Other
+
+Idk if this is actually related to he level, but there is an artist called Aitch ([see](https://en.wikipedia.org/wiki/Aitch_(rapper))) that is Brithish (as the title of the page suggest!).
+
 ## Level 7bis
 
 In this level the html code is just very simple to "think" that is something hidden:

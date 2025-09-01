@@ -13,5 +13,9 @@
 | [Level 5bis](https://wronghole.net/levels/darker/) | NA | Just the url for the next level | NA | NA |
 | [Level 6](https://wronghole.net/levels/darker/night.htm) | Schau genauer hin... | The title means "look closer" in german. In the roof of the image there is a text (my blood before me begs me) that means "Mi sangre ante mí me suplica". The key is that "you only need the lowercase letter". This one is kinda tricky. You have to search "my blood before me begs me" and the letter will appear, but "H" is not the name of the level, the name is "aitch" which is the spelling. | next | door |
 | [Level 6bis](https://wronghole.net/levels/darker/h.htm) | NA | In case you use h.htm in the level 6, this level says that you have to spell the letter. | NA | NA |
-| [Level 7](https://wronghole.net/levels/darker/aitch.htm) | Ik ben Brits, weet je nog... | The title means I'm British, remember... There are 6 images. 5 about sausages and 1 about keyboard. The keyboard allows you to make the text "tick.htm" which I will consider the level 7bis | ? | ? |
+| [Level 7](https://wronghole.net/levels/darker/aitch.htm) | Ik ben Brits, weet je nog... | The title means I'm British, remember... There are 6 images. 5 about sausages and 1 about keyboard. The keyboard allows you to make the text "tick.htm" which I will consider the level 7bis | history | symbolic |
 | [Level 7bis](https://wronghole.net/levels/darker/tick.htm) | NA | This level has hidden secrets that are very large to descrive here, so follow [this file](misc/level_7.md) to get all | NA | NA |
+| [Level 8]() | | | |
+| [Level 9](https://wronghole.net/levels/incredible/deaded.htm) | | coney | island |
+| [Level 10](https://wronghole.net/levels/roadtrip/) | | | |
+| [Level 11]()
