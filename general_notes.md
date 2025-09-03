@@ -17,7 +17,7 @@
 | [Level 7bis](https://wronghole.net/levels/darker/tick.htm) | NA | This level has hidden secrets that are very large to descrive here, so follow [this file](misc/level_7.md) to get all | NA | NA |
 | [Level 8](https://wronghole.net/levels/incredible) | Hey, hexy! | The idea is to substract `ff-21` `ff-52` `ff-12`. That gives you the url to the next level (same passwd)  | NA | NA |
 | [Level 9](https://wronghole.net/levels/incredible/deaded.htm) | He killed Ed! You bastard | The idea here is to reveal the metadata of the image. This reveal a map coordenate: [`54°16'57.1"N 0°23'45.7"W`](https://maps.app.goo.gl/7pYrk7AdE8ALnaMo8) which is the usr/psswd for the next level. The url appears if you touch the nose of the man in the image. | coney | island |
-| [Level 10](https://wronghole.net/levels/roadtrip/) | wanted.cooks.camera | This level has many images. One redirects you to the lvl10bis. This level gives you the url for the next level `/milkers` | NA | NA |
+| [Level 10](https://wronghole.net/levels/roadtrip/) | ///wanted.cooks.camera | This level has many images. One redirects you to the lvl10bis. This level gives you the url for the next level `/milkers`. More about this lvl [here](misc/level_10.md) | NA | NA |
 | [Level 10bis](https://wronghole.net/levels/roadtrip/log.htm) | UFO Flight Log | This level gives you the information that you need to write 2 characters in the map image: `s` and `t` | soft | udder | 
 | [Level 11](https://wronghole.net/levels/milkers) | Geen ademhaling! | The title means: No breathing! There are 2 images. One has the url for the next level. The other is just a cake | ? | ? |
 | [Level 12](https://wronghole.net/levels/animals) | | | | |
