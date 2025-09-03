@@ -38,14 +38,6 @@ But, as the last image text suggest, there is an extra image. A weird sausage ma
 
 At the middle of the train (not exactly the middle but anyway) is a keyboard image. That reveals a url. To reveal the url follow the comments in the body of the html that indicates [row]["column" number] on the keyboard. The url is `tick.htm`. That sends you to lvl 7bis.
 
-### The last image
-
-About this image, I just have no words. I just found [this](https://www.youtube.com/watch?v=mt5_zxOwkJk) video. What the hell is that????
-
-### Other
-
-Idk if this is actually related to he level, but there is an artist called Aitch ([see](https://en.wikipedia.org/wiki/Aitch_(rapper))) that is Brithish (as the title of the page suggest!).
-
 ## Level 7bis
 
 In this level the html code is just very simple to "think" that is something hidden:
@@ -59,4 +51,6 @@ Ah great! You've cracked the code. So what? This isn't the end. Get <i>down</i> 
 ```
 What do the numbers mean? Actually more than you can guess. If you look carefully into the level 7 html code, you will see that there is a second audio file. That file contains *["Dr. Martin Luther King Jr. August 28, 1963. Lincoln Memorial in Washington D.C."](http://analytictech.com/mb021/mlk.htm)* What is that? Shortly speaking is like a very large and political (I guess) speech in which they give the rights to black people.
 
-But the weird part is that the audio itself has 27 seconds of duration and the artist is "You're a fucking wizard." So... What the hell that means?
+# Solution
+
+The idea is to go to the specific seconds that the level 7bis sais. Listen the second 00:00:00s and the second 00:00:24s. That will reveal the `user` and `passwd`
